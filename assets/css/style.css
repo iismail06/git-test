@@ -1,0 +1,10 @@
+body{
+    background-color: lightgray;
+    background-image: url('../images/01-02-02_background-img.jpg');
+} /*this is a comment: relative file path which mean start from the current directory and point to a file.
+this preferred method*/
+
+/*body{
+    background-color: lightgray;
+    background-image: url('/assets/images/01-02-02_background-img.jpg');
+} /* Absolute file path which means start from the root directory and point to a file. */
